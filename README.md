@@ -1,0 +1,2 @@
+# Employee_Management_System
+ this is good, but just a small description for creating repository description Of course! Here's a concise description for your GitHub repository:  Employee Management System A fullstack application to manage employee details for small and medium-scale organizations. Built with ReactJS and Spring Boot (Java), and uses MySQL for database management. RESTful APIs were tested with Postman to ensure reliability.
